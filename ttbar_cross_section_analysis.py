@@ -84,4 +84,5 @@ print("THE WEIGHTS USING THE BLUE METHOD ARE:")
 print(weights)
 print("=============================================")
 print("THE FINAL ESTIMATION OF CROSS SECTION IS:")
+
 print("σ = ", final_cross_section[0], "±", final_sigma_cross_section)
